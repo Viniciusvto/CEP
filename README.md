@@ -23,5 +23,7 @@ Aplicativo em Java com interface gráfica Swing que consulta endereço a partir 
 ├── src/ │ └── projetocep/ │ ├── CEP.java │ └── Sobre.java ├── lib/ │ └── dom4j.jar ├── img/ │ └── home.png └── README.md
 ## ✨ Autores
 
-Vinicius — Projeto acadêmico baseado em estudos de Java e Swing.
-Emmanuel — Projeto acadêmico baseado em estudos de Java e Swing.
+## Vinicius — Projeto acadêmico baseado em estudos de Java e Swing.
+
+
+## Emmanuel — Projeto acadêmico baseado em estudos de Java e Swing.
