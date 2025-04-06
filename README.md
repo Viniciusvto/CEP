@@ -16,8 +16,7 @@ Aplicativo em Java com interface gráfica Swing que consulta endereço a partir 
 - API da República Virtual
 
 ## 📸 Exemplo da tela
-
-> (Adicione imagens na pasta `img/` depois e referencie aqui)
+....
 
 ## 📂 Organização do projeto
 ├── src/ │ └── projetocep/ │ ├── CEP.java │ └── Sobre.java ├── lib/ │ └── dom4j.jar ├── img/ │ └── home.png └── README.md
