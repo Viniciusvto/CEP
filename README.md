@@ -28,5 +28,3 @@ Aplicativo em Java com interface gráfica Swing que consulta endereço a partir 
 
 ## Vinicius — Projeto acadêmico baseado em estudos de Java e Swing.
 
-
-## Emmanuel — Projeto acadêmico baseado em estudos de Java e Swing.
